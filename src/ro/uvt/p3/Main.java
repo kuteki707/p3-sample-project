@@ -4,7 +4,7 @@ import ro.uvt.p3.io.InputDevice;
 import ro.uvt.p3.io.OutputDevice;
 
 public class Main {
-
+//some change
     public static void main(String[] args) {
         InputDevice id = new InputDevice();
         OutputDevice od = new OutputDevice();
